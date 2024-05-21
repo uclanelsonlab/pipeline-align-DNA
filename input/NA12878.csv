@@ -1,0 +1,2 @@
+read_group_identifier,sequencing_center,library_identifier,platform_technology,platform_unit,lane,sample,read1_fastq,read2_fastq
+NA12878,CN,ATCACGAT,ILLUMINA,PU,LN,NA12878,/var/snap/amazon-ssm-agent/7993/download/NA12878_gatk_test_data.ATCACGAT.20k_reads_1.fastq.gz,/var/snap/amazon-ssm-agent/7993/download/NA12878_gatk_test_data.ATCACGAT.20k_reads_2.fastq.gz
